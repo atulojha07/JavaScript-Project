@@ -4,7 +4,7 @@
 This repository contains a collection of **free JavaScript mini projects** created for **learning, practice, and college academic purposes**.  
 All projects are built using **basic web technologies** and focus on improving **logic building, DOM manipulation, and JavaScript fundamentals**.
 
-These projects are suitable for:
+These projects are suitable for all Students:
 - Beginners in JavaScript
 - BCA / MCA students
 - Frontend practice
